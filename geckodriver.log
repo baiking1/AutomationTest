@@ -1,7 +1,0 @@
-1491531809161	geckodriver	INFO	Listening on 127.0.0.1:63559
-1491531811160	mozprofile::profile	INFO	Using profile path C:\Users\KevinBai\AppData\Local\Temp\rust_mozprofile.fqdlNo5qCMG5
-1491531811162	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args []
-1491531811173	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63567
-JavaScript error: resource://gre/components/SanityTest.js, line 287: NS_ERROR_FILE_ACCESS_DENIED: Component returned failure code: 0x80520015 (NS_ERROR_FILE_ACCESS_DENIED) [nsIPrefService.savePrefFile]
-1491531811829	Marionette	INFO	Listening on port 63567
-[Child 6152] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
